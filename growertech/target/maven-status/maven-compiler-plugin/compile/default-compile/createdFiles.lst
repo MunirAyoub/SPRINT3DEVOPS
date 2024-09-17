@@ -1,0 +1,15 @@
+com\example\growertech\model\Cliente.class
+com\example\growertech\services\RecomendacaoService.class
+com\example\growertech\config\SwaggerConfig.class
+com\example\growertech\services\ClienteService.class
+com\example\growertech\config\SwaggerConfig$1.class
+com\example\growertech\repository\EnderecoRepository.class
+com\example\growertech\config\HateoasUtils.class
+com\example\growertech\controller\ClienteController.class
+com\example\growertech\GrowertechApplication.class
+com\example\growertech\config\HateoasConfig$CustomRequestMappingHandlerMapping.class
+com\example\growertech\dto\RecomendacaoDTO.class
+com\example\growertech\model\Endereco.class
+com\example\growertech\repository\ClienteRepository.class
+com\example\growertech\config\HateoasConfig.class
+com\example\growertech\model\Recomendacao.class
